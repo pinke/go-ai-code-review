@@ -1,0 +1,13 @@
+*.zip
+.idea
+*.iml
+*.class
+*.jar
+*.exe
+*.dll
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.obj
